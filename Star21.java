@@ -13,7 +13,7 @@ public class Star21 {
         // batas Integer -2,147,483,648 sampai 2,147,483,647.
 
         // sintaks (aturan penulisan code program) perulangan
-        for (int i = 1; i <= N; i++) { //mencetak nilai N, dimana output <= N 
+        for (int i = 1; i > N; i++) { //mencetak nilai N, dimana output <= N 
             System.out.print("*");
             //format harus print, untuk ingin menampilkan tanpa ada baris baru
         }
