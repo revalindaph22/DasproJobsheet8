@@ -19,5 +19,6 @@ berada didalamnya?
 dalam? Apa akibatnya jika sintaks tersebut dihilangkan?
 = fungsinya untuk memberi enter bintang pada output, yang akan menghasilkan bintang kebawah tidak kesamping, jika dihilangkan maka bintang di print hanya ke samping saja..
 
+
 5. Silakan commit dan push ke repository Anda.
 = done
