@@ -31,6 +31,6 @@ public class TugasPersegi1 {
         System.out.println();
          i++;
     } while (i < N);
-    }
     sc.close();
+    }
 }
